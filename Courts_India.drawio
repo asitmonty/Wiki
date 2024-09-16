@@ -1,0 +1,1167 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8" pages="2">
+  <diagram name="Criminal courts" id="wvCw8xdHoyzsAdJQAiyV">
+    <mxGraphModel dx="5101.5" dy="2912.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="E__r3v_IiDljRF7QGEvL-0" />
+        <mxCell id="E__r3v_IiDljRF7QGEvL-1" parent="E__r3v_IiDljRF7QGEvL-0" />
+        <mxCell id="E__r3v_IiDljRF7QGEvL-2" value="Supreme Court" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="1250" y="-90" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E__r3v_IiDljRF7QGEvL-3" value="High Court" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="1240" y="50" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E__r3v_IiDljRF7QGEvL-17" value="Chief Metropolitan Magistrate" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="3240" y="1012.75" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E__r3v_IiDljRF7QGEvL-18" value="Additional Metropolitan Magistrate" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="3240" y="1147.75" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E__r3v_IiDljRF7QGEvL-19" value="Metropolitan Magistrate (MM)" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="3240" y="1282.25" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E__r3v_IiDljRF7QGEvL-20" value="Special Metropolitan Magistrate" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="3240" y="1402.25" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E__r3v_IiDljRF7QGEvL-21" value="Executive Magistrate" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="3240" y="1492.25" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E__r3v_IiDljRF7QGEvL-27" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="E__r3v_IiDljRF7QGEvL-1" source="E__r3v_IiDljRF7QGEvL-2" target="E__r3v_IiDljRF7QGEvL-3" edge="1">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="600" y="-30" as="sourcePoint" />
+            <mxPoint x="700" y="-130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E__r3v_IiDljRF7QGEvL-28" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="E__r3v_IiDljRF7QGEvL-1" source="E__r3v_IiDljRF7QGEvL-3" target="E__r3v_IiDljRF7QGEvL-5" edge="1">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="1472" y="315" as="sourcePoint" />
+            <mxPoint x="822" y="75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E__r3v_IiDljRF7QGEvL-29" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="E__r3v_IiDljRF7QGEvL-1" source="E__r3v_IiDljRF7QGEvL-57" target="E__r3v_IiDljRF7QGEvL-4" edge="1">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="772" y="405" as="sourcePoint" />
+            <mxPoint x="402" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1280" y="541" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E__r3v_IiDljRF7QGEvL-30" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="E__r3v_IiDljRF7QGEvL-1" source="E__r3v_IiDljRF7QGEvL-3" target="E__r3v_IiDljRF7QGEvL-6" edge="1">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="722" y="120" as="sourcePoint" />
+            <mxPoint x="822" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E__r3v_IiDljRF7QGEvL-38" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="E__r3v_IiDljRF7QGEvL-1" source="E__r3v_IiDljRF7QGEvL-57" target="E__r3v_IiDljRF7QGEvL-14" edge="1">
+          <mxGeometry x="62" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="62" y="320.5" as="sourcePoint" />
+            <mxPoint x="162" y="220.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E__r3v_IiDljRF7QGEvL-40" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="E__r3v_IiDljRF7QGEvL-1" source="aTFJ92kF3A5ZYLB9J6bt-26" target="E__r3v_IiDljRF7QGEvL-16" edge="1">
+          <mxGeometry x="62" y="185.5" width="100" height="100" as="geometry">
+            <mxPoint x="940" y="807" as="sourcePoint" />
+            <mxPoint x="162" y="285.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E__r3v_IiDljRF7QGEvL-41" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="E__r3v_IiDljRF7QGEvL-1" source="E__r3v_IiDljRF7QGEvL-17" target="E__r3v_IiDljRF7QGEvL-18" edge="1">
+          <mxGeometry x="72" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="2470" y="662.75" as="sourcePoint" />
+            <mxPoint x="2570" y="562.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E__r3v_IiDljRF7QGEvL-42" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="E__r3v_IiDljRF7QGEvL-1" source="E__r3v_IiDljRF7QGEvL-18" target="E__r3v_IiDljRF7QGEvL-19" edge="1">
+          <mxGeometry x="72" y="175.5" width="100" height="100" as="geometry">
+            <mxPoint x="2470" y="717.75" as="sourcePoint" />
+            <mxPoint x="2570" y="617.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E__r3v_IiDljRF7QGEvL-43" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="E__r3v_IiDljRF7QGEvL-1" source="E__r3v_IiDljRF7QGEvL-19" target="E__r3v_IiDljRF7QGEvL-20" edge="1">
+          <mxGeometry x="72" y="185.5" width="100" height="100" as="geometry">
+            <mxPoint x="2470" y="772.25" as="sourcePoint" />
+            <mxPoint x="2570" y="672.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E__r3v_IiDljRF7QGEvL-44" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="E__r3v_IiDljRF7QGEvL-1" source="E__r3v_IiDljRF7QGEvL-20" target="E__r3v_IiDljRF7QGEvL-21" edge="1">
+          <mxGeometry x="72" y="195.5" width="100" height="100" as="geometry">
+            <mxPoint x="2470" y="812.25" as="sourcePoint" />
+            <mxPoint x="2570" y="712.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E__r3v_IiDljRF7QGEvL-49" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="E__r3v_IiDljRF7QGEvL-1" source="E__r3v_IiDljRF7QGEvL-57" target="E__r3v_IiDljRF7QGEvL-13" edge="1">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="22" y="320.5" as="sourcePoint" />
+            <mxPoint x="122" y="220.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="860" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E__r3v_IiDljRF7QGEvL-50" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="E__r3v_IiDljRF7QGEvL-1" target="E__r3v_IiDljRF7QGEvL-17" edge="1">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="3390" y="365.5" as="sourcePoint" />
+            <mxPoint x="902" y="236" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1722" y="626" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E__r3v_IiDljRF7QGEvL-52" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="E__r3v_IiDljRF7QGEvL-1" source="aTFJ92kF3A5ZYLB9J6bt-26" target="E__r3v_IiDljRF7QGEvL-15" edge="1">
+          <mxGeometry x="62" y="185.5" width="100" height="100" as="geometry">
+            <mxPoint x="652" y="1045.5" as="sourcePoint" />
+            <mxPoint x="652" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E__r3v_IiDljRF7QGEvL-60" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;District Level&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="-1240" y="500" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-9" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="E__r3v_IiDljRF7QGEvL-1" source="aTFJ92kF3A5ZYLB9J6bt-0" target="aTFJ92kF3A5ZYLB9J6bt-1" edge="1">
+          <mxGeometry x="62" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="1237" y="362.75" as="sourcePoint" />
+            <mxPoint x="1337" y="262.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-10" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="E__r3v_IiDljRF7QGEvL-1" source="aTFJ92kF3A5ZYLB9J6bt-1" target="aTFJ92kF3A5ZYLB9J6bt-2" edge="1">
+          <mxGeometry x="62" y="175.5" width="100" height="100" as="geometry">
+            <mxPoint x="1237" y="432.75" as="sourcePoint" />
+            <mxPoint x="1337" y="332.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-24" value="Civil cases any valuation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="1810" y="807.75" width="208" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-33" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="E__r3v_IiDljRF7QGEvL-1" source="aTFJ92kF3A5ZYLB9J6bt-29" target="aTFJ92kF3A5ZYLB9J6bt-30" edge="1">
+          <mxGeometry x="62" y="175.5" width="100" height="100" as="geometry">
+            <mxPoint x="1930" y="1107.25" as="sourcePoint" />
+            <mxPoint x="1826.29" y="1137.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-39" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Sub - Division Level&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="-1020" y="1367.25" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-47" value="Imprisonment upto 3 years, fine not exceeding ₹10,000" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="1222" y="1036" width="208" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-48" value="" style="edgeStyle=elbowEdgeStyle;strokeWidth=2;endArrow=block;endFill=1;fontStyle=1;strokeColor=#FFB570;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fillColor=#f8cecc;jumpStyle=arc;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="E__r3v_IiDljRF7QGEvL-1" source="E__r3v_IiDljRF7QGEvL-15" target="E__r3v_IiDljRF7QGEvL-5" edge="1">
+          <mxGeometry x="62" y="185.5" width="100" height="100" as="geometry">
+            <mxPoint x="644" y="772" as="sourcePoint" />
+            <mxPoint x="880" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1250" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-52" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="E__r3v_IiDljRF7QGEvL-1" source="aTFJ92kF3A5ZYLB9J6bt-25" target="aTFJ92kF3A5ZYLB9J6bt-51" edge="1">
+          <mxGeometry x="62" y="185.5" width="100" height="100" as="geometry">
+            <mxPoint x="714" y="1007.5" as="sourcePoint" />
+            <mxPoint x="242" y="485.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-53" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="E__r3v_IiDljRF7QGEvL-1" source="aTFJ92kF3A5ZYLB9J6bt-25" target="aTFJ92kF3A5ZYLB9J6bt-50" edge="1">
+          <mxGeometry x="62" y="185.5" width="100" height="100" as="geometry">
+            <mxPoint x="714" y="1007.5" as="sourcePoint" />
+            <mxPoint x="242" y="575" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-57" value="Imprisonment upto 1 years, fine not exceeding ₹5,000" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="1234" y="1290" width="208" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-58" value="Petty thefts, minor assaults, and other small offenses" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="1234" y="1260" width="208" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-59" value="petty offenses and preliminary hearings for more serious offenses" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="1222" y="1000" width="208" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-60" value="complex and severe offenses&lt;div&gt;Imprisonment upto 7 years&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="990" y="765" width="208" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-62" value="" style="elbow=vertical;strokeWidth=2;endArrow=block;endFill=1;fontStyle=1;strokeColor=#FFB570;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;exitX=0;exitY=0.25;exitDx=0;exitDy=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="E__r3v_IiDljRF7QGEvL-1" source="E__r3v_IiDljRF7QGEvL-4" target="E__r3v_IiDljRF7QGEvL-5" edge="1">
+          <mxGeometry x="62" y="185.5" width="100" height="100" as="geometry">
+            <mxPoint x="502" y="479.5" as="sourcePoint" />
+            <mxPoint x="561" y="252" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="890" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-64" value="Imprisonment upto 10 years" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="990" y="595" width="208" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-65" value="" style="edgeStyle=orthogonalEdgeStyle;strokeWidth=2;endArrow=block;endFill=1;fontStyle=1;strokeColor=#FFB570;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;jumpStyle=arc;" parent="E__r3v_IiDljRF7QGEvL-1" source="E__r3v_IiDljRF7QGEvL-15" target="E__r3v_IiDljRF7QGEvL-59" edge="1">
+          <mxGeometry x="62" y="185.5" width="100" height="100" as="geometry">
+            <mxPoint x="782" y="882" as="sourcePoint" />
+            <mxPoint x="803" y="619" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1360" y="975" />
+              <mxPoint x="1360" y="575" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-67" value="" style="edgeStyle=orthogonalEdgeStyle;strokeWidth=2;endArrow=block;endFill=1;fontStyle=1;strokeColor=#FFB570;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;jumpStyle=arc;" parent="E__r3v_IiDljRF7QGEvL-1" source="aTFJ92kF3A5ZYLB9J6bt-50" target="E__r3v_IiDljRF7QGEvL-59" edge="1">
+          <mxGeometry x="62" y="185.5" width="100" height="100" as="geometry">
+            <mxPoint x="790" y="873.25" as="sourcePoint" />
+            <mxPoint x="540" y="590.25" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1360" y="1190" />
+              <mxPoint x="1360" y="575" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-71" value="Imprisonment upto 3 years, fine not exceeding ₹10,000" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="940" y="1445.5" width="208" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-72" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="E__r3v_IiDljRF7QGEvL-1" source="aTFJ92kF3A5ZYLB9J6bt-26" target="aTFJ92kF3A5ZYLB9J6bt-69" edge="1">
+          <mxGeometry x="62" y="185.5" width="100" height="100" as="geometry">
+            <mxPoint x="950" y="820" as="sourcePoint" />
+            <mxPoint x="810" y="1250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="940" y="1340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-73" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="1022" y="930" width="200" height="96.25" as="geometry" />
+        </mxCell>
+        <mxCell id="E__r3v_IiDljRF7QGEvL-15" value="First Class Judicial Magistrate Courts" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="aTFJ92kF3A5ZYLB9J6bt-73" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-25" value="Judicial Magistrate First Class (JMFC)" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="aTFJ92kF3A5ZYLB9J6bt-73" vertex="1">
+          <mxGeometry y="56.25" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-74" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="650" y="929.63" width="200" height="91.75" as="geometry" />
+        </mxCell>
+        <mxCell id="E__r3v_IiDljRF7QGEvL-16" value="Special Judicial Magistrate First Class Courts" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="aTFJ92kF3A5ZYLB9J6bt-74" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-46" value="Special Judicial Magistrate First Class (Sp. JMFC)" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="aTFJ92kF3A5ZYLB9J6bt-74" vertex="1">
+          <mxGeometry y="51.75" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-75" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="800" y="710" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E__r3v_IiDljRF7QGEvL-13" value="Chief Judicial Magistrate Court" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="aTFJ92kF3A5ZYLB9J6bt-75" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-26" value="Chief Judicial Magistrate (CJM)" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="aTFJ92kF3A5ZYLB9J6bt-75" vertex="1">
+          <mxGeometry y="50" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-76" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="550" y="710" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E__r3v_IiDljRF7QGEvL-14" value="Additional Chief Judicial Magistrate Court" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="aTFJ92kF3A5ZYLB9J6bt-76" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-61" value="Addl Chief Judicial Magistrate (ACJM)" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="aTFJ92kF3A5ZYLB9J6bt-76" vertex="1">
+          <mxGeometry y="50" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-77" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="890" y="510.5" width="200" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="E__r3v_IiDljRF7QGEvL-4" value="Assistant Sessions Court" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="aTFJ92kF3A5ZYLB9J6bt-77" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E__r3v_IiDljRF7QGEvL-59" value="Assistant Sessions Judge" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="aTFJ92kF3A5ZYLB9J6bt-77" vertex="1">
+          <mxGeometry y="44.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-78" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="1370" y="320" width="201" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="E__r3v_IiDljRF7QGEvL-5" value="District and Sessions Judge Court" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="aTFJ92kF3A5ZYLB9J6bt-78" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E__r3v_IiDljRF7QGEvL-57" value="Distric &amp; Sessions Judge (DSJ)" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="aTFJ92kF3A5ZYLB9J6bt-78" vertex="1">
+          <mxGeometry x="1" y="44.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-79" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="1130" y="320" width="200" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="E__r3v_IiDljRF7QGEvL-6" value="Additional District Court" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="aTFJ92kF3A5ZYLB9J6bt-79" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E__r3v_IiDljRF7QGEvL-58" value="Additional District &amp; Sessions Judge (ASJ)" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="aTFJ92kF3A5ZYLB9J6bt-79" vertex="1">
+          <mxGeometry y="44.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-81" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="910" y="1160" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-51" value="Special Judicial Magistrate Second Class Courts" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="aTFJ92kF3A5ZYLB9J6bt-81" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-56" value="Special Judicial Magistrate Second Class (Sp JMSC)" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="aTFJ92kF3A5ZYLB9J6bt-81" vertex="1">
+          <mxGeometry y="50" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-82" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="800" y="1330" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-69" value="Sub-Divisional Judicial Magistrate Court" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="aTFJ92kF3A5ZYLB9J6bt-82" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-70" value="Sub-Divisional Judicial Magistrate (SDJM)" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="aTFJ92kF3A5ZYLB9J6bt-82" vertex="1">
+          <mxGeometry y="50" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-83" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;State Level&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="-1250" y="360" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-84" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="1140" y="1159" width="200" height="90.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-50" value="Second Class Judicial Magistrate Courts" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="aTFJ92kF3A5ZYLB9J6bt-84" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-55" value="Judicial Magistrate Second Class (JMSC)" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="aTFJ92kF3A5ZYLB9J6bt-84" vertex="1">
+          <mxGeometry y="50.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-85" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="E__r3v_IiDljRF7QGEvL-1" source="aTFJ92kF3A5ZYLB9J6bt-100" target="aTFJ92kF3A5ZYLB9J6bt-114" edge="1">
+          <mxGeometry x="62" y="185.5" width="100" height="100" as="geometry">
+            <mxPoint x="160" y="787" as="sourcePoint" />
+            <mxPoint x="-30" y="909.6300000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-86" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="E__r3v_IiDljRF7QGEvL-1" source="aTFJ92kF3A5ZYLB9J6bt-100" target="aTFJ92kF3A5ZYLB9J6bt-115" edge="1">
+          <mxGeometry x="62" y="185.5" width="100" height="100" as="geometry">
+            <mxPoint x="-128" y="1025.5" as="sourcePoint" />
+            <mxPoint x="342" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-91" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="E__r3v_IiDljRF7QGEvL-1" source="aTFJ92kF3A5ZYLB9J6bt-100" target="aTFJ92kF3A5ZYLB9J6bt-116" edge="1">
+          <mxGeometry x="62" y="185.5" width="100" height="100" as="geometry">
+            <mxPoint x="170" y="800" as="sourcePoint" />
+            <mxPoint x="120" y="1310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="1320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-100" value="District Magistrate (DM)" style="rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="20" y="740" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-113" value="No judicial power, deal with petty offences" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="140" y="795" width="208" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-114" value="Addl District Magistrate (ADM)" style="rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="-120" y="920" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-115" value="Special Executive Magistrates (Sp. EM)" style="rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="230" y="920" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-116" value="Sub Divisional Magistrate (SDM)" style="rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="20" y="1345.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-117" value="Executive Magistrates (EM)" style="rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="-360" y="920.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z6BjMf6_MH6t1YkdlfCe-0" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.576;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;" parent="E__r3v_IiDljRF7QGEvL-1" source="aTFJ92kF3A5ZYLB9J6bt-100" target="aTFJ92kF3A5ZYLB9J6bt-117" edge="1">
+          <mxGeometry x="62" y="185.5" width="100" height="100" as="geometry">
+            <mxPoint x="-100" y="735.87" as="sourcePoint" />
+            <mxPoint x="-250" y="865.5000000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-80" y="850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6BjMf6_MH6t1YkdlfCe-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="E__r3v_IiDljRF7QGEvL-1" source="aTFJ92kF3A5ZYLB9J6bt-117" target="aTFJ92kF3A5ZYLB9J6bt-117" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z6BjMf6_MH6t1YkdlfCe-3" value="" style="edgeStyle=orthogonalEdgeStyle;strokeWidth=2;endArrow=block;endFill=1;fontStyle=1;strokeColor=#FFB570;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f8cecc;jumpStyle=arc;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="E__r3v_IiDljRF7QGEvL-1" source="aTFJ92kF3A5ZYLB9J6bt-100" target="E__r3v_IiDljRF7QGEvL-57" edge="1">
+          <mxGeometry x="62" y="185.5" width="100" height="100" as="geometry">
+            <mxPoint x="512" y="1095" as="sourcePoint" />
+            <mxPoint x="160" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="446" y="760" />
+              <mxPoint x="446" y="620" />
+              <mxPoint x="650" y="620" />
+              <mxPoint x="650" y="455" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6BjMf6_MH6t1YkdlfCe-4" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="E__r3v_IiDljRF7QGEvL-1" target="aTFJ92kF3A5ZYLB9J6bt-0" edge="1">
+          <mxGeometry x="62" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="1470" y="420" as="sourcePoint" />
+            <mxPoint x="1800" y="675" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1650" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6BjMf6_MH6t1YkdlfCe-5" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="E__r3v_IiDljRF7QGEvL-1" source="E__r3v_IiDljRF7QGEvL-57" target="aTFJ92kF3A5ZYLB9J6bt-4" edge="1">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="2621" y="370" as="sourcePoint" />
+            <mxPoint x="2050" y="675" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1790" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6BjMf6_MH6t1YkdlfCe-6" value="fine ₹1 Lac to ₹5 Lac" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="1800" y="1110" width="208" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z6BjMf6_MH6t1YkdlfCe-9" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="E__r3v_IiDljRF7QGEvL-1" source="aTFJ92kF3A5ZYLB9J6bt-28" target="z6BjMf6_MH6t1YkdlfCe-7" edge="1">
+          <mxGeometry x="62" y="185.5" width="100" height="100" as="geometry">
+            <mxPoint x="2040" y="910" as="sourcePoint" />
+            <mxPoint x="2252" y="1002.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6BjMf6_MH6t1YkdlfCe-12" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="1980" y="475" width="200" height="94.5" as="geometry" />
+        </mxCell>
+        <mxCell id="z6BjMf6_MH6t1YkdlfCe-10" value="Juvenile Justice Board" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="z6BjMf6_MH6t1YkdlfCe-12" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z6BjMf6_MH6t1YkdlfCe-11" value="Principal Magistrate, Juvenile Justice Board (PMJJB)" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="z6BjMf6_MH6t1YkdlfCe-12" vertex="1">
+          <mxGeometry y="54.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z6BjMf6_MH6t1YkdlfCe-13" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="1981" y="320" width="200" height="94.5" as="geometry" />
+        </mxCell>
+        <mxCell id="z6BjMf6_MH6t1YkdlfCe-14" value="Children&#39;s Court" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="z6BjMf6_MH6t1YkdlfCe-13" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z6BjMf6_MH6t1YkdlfCe-15" value="Chlidren&#39;s Court Judge (Sessions Judge rank)" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="z6BjMf6_MH6t1YkdlfCe-13" vertex="1">
+          <mxGeometry y="54.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z6BjMf6_MH6t1YkdlfCe-16" value="" style="elbow=vertical;strokeWidth=2;endArrow=block;endFill=1;fontStyle=1;strokeColor=#FFB570;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="E__r3v_IiDljRF7QGEvL-1" source="z6BjMf6_MH6t1YkdlfCe-14" target="E__r3v_IiDljRF7QGEvL-3" edge="1">
+          <mxGeometry x="62" y="185.5" width="100" height="100" as="geometry">
+            <mxPoint x="2520" y="780" as="sourcePoint" />
+            <mxPoint x="2718" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1950" y="365" />
+              <mxPoint x="1950" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z6BjMf6_MH6t1YkdlfCe-18" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="1727" y="1151.75" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-30" value="District Munsiff Court" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="z6BjMf6_MH6t1YkdlfCe-18" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-31" value="Munsiff Magistrate / Judicial Collector" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="z6BjMf6_MH6t1YkdlfCe-18" vertex="1">
+          <mxGeometry y="50" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z6BjMf6_MH6t1YkdlfCe-19" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="1727" y="1012.75" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-2" value="Civil Judge Jr. Divn. Court " style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="z6BjMf6_MH6t1YkdlfCe-19" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-29" value="Civil Judge Jr. Division (CJJD)" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="z6BjMf6_MH6t1YkdlfCe-19" vertex="1">
+          <mxGeometry y="50" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z6BjMf6_MH6t1YkdlfCe-20" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="1727" y="862.75" width="200" height="94.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-1" value="Principal  Civil Judge (Jr. Divn.) Court" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="z6BjMf6_MH6t1YkdlfCe-20" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-28" value="Principal Civil Judge (Jr. Divn.)" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="z6BjMf6_MH6t1YkdlfCe-20" vertex="1">
+          <mxGeometry y="54.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z6BjMf6_MH6t1YkdlfCe-21" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="1727" y="712.75" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-0" value="Civil Judge Sr. Divn. Court / Sub-Court" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="z6BjMf6_MH6t1YkdlfCe-21" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-27" value="Civil Judge Senior Division (CJSD)" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="z6BjMf6_MH6t1YkdlfCe-21" vertex="1">
+          <mxGeometry y="50" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z6BjMf6_MH6t1YkdlfCe-22" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="1970" y="1012.75" width="201" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="z6BjMf6_MH6t1YkdlfCe-7" value="Additional Junior Civil Judge Courts / Sub-Courts" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="z6BjMf6_MH6t1YkdlfCe-22" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z6BjMf6_MH6t1YkdlfCe-8" value="Addl. Junior Civil Judge" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="z6BjMf6_MH6t1YkdlfCe-22" vertex="1">
+          <mxGeometry x="1" y="50" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z6BjMf6_MH6t1YkdlfCe-23" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="2017" y="712.75" width="201" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-4" value="Addl. Civil Judge Sr. Divn. Court / Sub-Courts" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="z6BjMf6_MH6t1YkdlfCe-23" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aTFJ92kF3A5ZYLB9J6bt-45" value="Addl. Senior Civil Judge" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="z6BjMf6_MH6t1YkdlfCe-23" vertex="1">
+          <mxGeometry x="1" y="50" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-0" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="410" y="404.5" width="200" height="94.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-1" value="Railway Magistrate Court" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="0JMHUhpy4NwiAgeJqNMq-0" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-2" value="Railway Magistrate (JMFC Rank)" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="0JMHUhpy4NwiAgeJqNMq-0" vertex="1">
+          <mxGeometry y="54.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-3" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="1630" y="1660" width="201" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-4" value="Gram Nyayalayas" style="rounded=1;fillColor=#10739e;strokeColor=#0e8088;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;fontColor=#FFFFFF;" parent="0JMHUhpy4NwiAgeJqNMq-3" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-5" value="Nyayadhikari (JMFC rank)" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="0JMHUhpy4NwiAgeJqNMq-3" vertex="1">
+          <mxGeometry x="1" y="50" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-6" value="" style="edgeStyle=orthogonalEdgeStyle;strokeWidth=2;endArrow=block;endFill=1;fontStyle=1;strokeColor=#FFB570;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fillColor=#f8cecc;jumpStyle=arc;" parent="E__r3v_IiDljRF7QGEvL-1" source="z6BjMf6_MH6t1YkdlfCe-7" target="aTFJ92kF3A5ZYLB9J6bt-1" edge="1">
+          <mxGeometry x="62" y="185.5" width="100" height="100" as="geometry">
+            <mxPoint x="2511.9300000000003" y="1080" as="sourcePoint" />
+            <mxPoint x="2379.9300000000003" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2170" y="1060" />
+              <mxPoint x="2190" y="1060" />
+              <mxPoint x="2190" y="908" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-7" value="" style="edgeStyle=orthogonalEdgeStyle;strokeWidth=2;endArrow=block;endFill=1;fontStyle=1;strokeColor=#FFB570;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fillColor=#f8cecc;jumpStyle=arc;" parent="E__r3v_IiDljRF7QGEvL-1" source="z6BjMf6_MH6t1YkdlfCe-7" target="aTFJ92kF3A5ZYLB9J6bt-0" edge="1">
+          <mxGeometry x="62" y="185.5" width="100" height="100" as="geometry">
+            <mxPoint x="2439.93" y="1070.5" as="sourcePoint" />
+            <mxPoint x="2196.93" y="920.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2190" y="1058" />
+              <mxPoint x="2190" y="840" />
+              <mxPoint x="1960" y="840" />
+              <mxPoint x="1960" y="758" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-9" value="" style="edgeStyle=orthogonalEdgeStyle;strokeWidth=2;endArrow=block;endFill=1;fontStyle=1;strokeColor=#FFB570;exitX=0;exitY=0.75;exitDx=0;exitDy=0;fillColor=#f8cecc;jumpStyle=arc;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="E__r3v_IiDljRF7QGEvL-1" source="aTFJ92kF3A5ZYLB9J6bt-2" target="aTFJ92kF3A5ZYLB9J6bt-0" edge="1">
+          <mxGeometry x="62" y="185.5" width="100" height="100" as="geometry">
+            <mxPoint x="1593.93" y="1058.82" as="sourcePoint" />
+            <mxPoint x="1650" y="761" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1520" y="1059" />
+              <mxPoint x="1520" y="761" />
+              <mxPoint x="1727" y="761" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-10" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="1990" y="1540" width="201" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-11" value="Small Causes Courts" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="0JMHUhpy4NwiAgeJqNMq-10" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-12" value="CJSD or CJJD" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="0JMHUhpy4NwiAgeJqNMq-10" vertex="1">
+          <mxGeometry x="1" y="50" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-13" value="small (₹3,000 to ₹50,000) monetary claims, typically related to rent, lease disputes, minor matters" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="2055" y="1640" width="193" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-14" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="1630" y="1840" width="201" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-15" value="Nyaya Panchayats" style="rounded=1;fillColor=#b0e3e6;strokeColor=#0e8088;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;" parent="0JMHUhpy4NwiAgeJqNMq-14" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-16" value="Sarpanch" style="rounded=1;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;" parent="0JMHUhpy4NwiAgeJqNMq-14" vertex="1">
+          <mxGeometry x="1" y="50" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-17" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="1690" y="170" width="201" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-18" value="Lok Adalats" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="0JMHUhpy4NwiAgeJqNMq-17" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-19" value="CJSD or CJJD" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="0JMHUhpy4NwiAgeJqNMq-17" vertex="1">
+          <mxGeometry x="1" y="50" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-23" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#b46504;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#fad7ac;" parent="E__r3v_IiDljRF7QGEvL-1" source="0JMHUhpy4NwiAgeJqNMq-26" target="0JMHUhpy4NwiAgeJqNMq-28" edge="1">
+          <mxGeometry x="62" y="185.5" width="100" height="100" as="geometry">
+            <mxPoint x="179" y="692.5" as="sourcePoint" />
+            <mxPoint x="-11" y="815.1300000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-25" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#b46504;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#fad7ac;" parent="E__r3v_IiDljRF7QGEvL-1" source="0JMHUhpy4NwiAgeJqNMq-28" target="0JMHUhpy4NwiAgeJqNMq-30" edge="1">
+          <mxGeometry x="62" y="185.5" width="100" height="100" as="geometry">
+            <mxPoint x="141" y="90.5" as="sourcePoint" />
+            <mxPoint x="150" y="375.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-26" value="National Consumer Disputes Redressal Commission (NCDRC)" style="rounded=1;fillColor=#fad7ac;strokeColor=#b46504;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="30" y="0.5" width="200" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-28" value="State Consumer Disputes Redressal Commission (State Commission)" style="rounded=1;fillColor=#fad7ac;strokeColor=#b46504;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="30" y="131" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-30" value="District Consumer Disputes Redressal Commission (District Commission)" style="rounded=1;fillColor=#fad7ac;strokeColor=#b46504;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="30" y="307.5" width="200" height="61.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="E__r3v_IiDljRF7QGEvL-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2420" y="975.5" as="sourcePoint" />
+            <mxPoint x="2420" y="975.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-34" value="value of goods and compensation upto&amp;nbsp;₹1 crore" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="180" y="410.5" width="208" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-35" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="E__r3v_IiDljRF7QGEvL-1" source="E__r3v_IiDljRF7QGEvL-2" target="0JMHUhpy4NwiAgeJqNMq-26" edge="1">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="1660" y="-90" as="sourcePoint" />
+            <mxPoint x="1780" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-36" value="Consumer Mediation Cells" style="rounded=1;fillColor=#fad7ac;strokeColor=#b46504;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="30" y="470.5" width="200" height="61.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-37" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#b46504;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#fad7ac;" parent="E__r3v_IiDljRF7QGEvL-1" source="0JMHUhpy4NwiAgeJqNMq-30" target="0JMHUhpy4NwiAgeJqNMq-36" edge="1">
+          <mxGeometry x="62" y="185.5" width="100" height="100" as="geometry">
+            <mxPoint x="129.40999999999985" y="413" as="sourcePoint" />
+            <mxPoint x="129.40999999999985" y="458" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-40" value="President/District Judge" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="30" y="400" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-41" value="President/High Court Judge" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="30" y="190.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-42" value="President/Supremet Court Judge" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="30" y="60" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-43" value="disputes related to public utility services like transport, postal services and telecommunications" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="1760" y="280" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-44" value="" style="edgeStyle=orthogonalEdgeStyle;strokeWidth=2;endArrow=block;endFill=1;fontStyle=1;strokeColor=#FFB570;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f8cecc;jumpStyle=arc;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="E__r3v_IiDljRF7QGEvL-1" source="0JMHUhpy4NwiAgeJqNMq-11" target="E__r3v_IiDljRF7QGEvL-5" edge="1">
+          <mxGeometry x="62" y="185.5" width="100" height="100" as="geometry">
+            <mxPoint x="1656.93" y="1089.96" as="sourcePoint" />
+            <mxPoint x="1656.93" y="789.96" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1940" y="1560" />
+              <mxPoint x="1940" y="1470" />
+              <mxPoint x="1580" y="1470" />
+              <mxPoint x="1580" y="365" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-45" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="1140" y="1660" width="201" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-46" value="Gram Nyayalayas" style="rounded=1;fillColor=#10739E;strokeColor=#0e8088;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;fontColor=#FFFFFF;" parent="0JMHUhpy4NwiAgeJqNMq-45" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-47" value="Nyayadhikari (JMFC rank)" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="0JMHUhpy4NwiAgeJqNMq-45" vertex="1">
+          <mxGeometry x="1" y="50" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-51" value="minor disputes (e.g. boundary disputes, small property matters)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="1690" y="1950" width="193" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-52" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="1148" y="1830" width="201" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-53" value="Nyaya Panchayats" style="rounded=1;fillColor=#b0e3e6;strokeColor=#0e8088;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;" parent="0JMHUhpy4NwiAgeJqNMq-52" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-54" value="Sarpanch" style="rounded=1;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;" parent="0JMHUhpy4NwiAgeJqNMq-52" vertex="1">
+          <mxGeometry x="1" y="50" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-55" value="petty cases (e.g. minor thefts, disputes over small amounts)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="1168" y="1930" width="193" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-56" value="land disputes, family mattesr" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="1690" y="1770" width="193" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-57" value="theft, trespas, simple assault" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="1200" y="1770" width="193" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-58" value="" style="edgeStyle=orthogonalEdgeStyle;strokeWidth=2;endArrow=block;endFill=1;fontStyle=1;strokeColor=#FFB570;exitX=0;exitY=0.75;exitDx=0;exitDy=0;fillColor=#f8cecc;jumpStyle=arc;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="E__r3v_IiDljRF7QGEvL-1" source="0JMHUhpy4NwiAgeJqNMq-15" target="aTFJ92kF3A5ZYLB9J6bt-30" edge="1">
+          <mxGeometry x="62" y="185.5" width="100" height="100" as="geometry">
+            <mxPoint x="1666.93" y="1514.96" as="sourcePoint" />
+            <mxPoint x="1666.93" y="1214.96" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1440" y="1197" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-59" value="" style="edgeStyle=orthogonalEdgeStyle;strokeWidth=2;endArrow=block;endFill=1;fontStyle=1;strokeColor=#FFB570;fillColor=#f8cecc;jumpStyle=arc;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="E__r3v_IiDljRF7QGEvL-1" source="0JMHUhpy4NwiAgeJqNMq-15" target="aTFJ92kF3A5ZYLB9J6bt-29" edge="1">
+          <mxGeometry x="62" y="185.5" width="100" height="100" as="geometry">
+            <mxPoint x="1430" y="1480" as="sourcePoint" />
+            <mxPoint x="1737" y="1207" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1520" y="1885" />
+              <mxPoint x="1520" y="1083" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-60" value="" style="edgeStyle=orthogonalEdgeStyle;strokeWidth=2;endArrow=block;endFill=1;fontStyle=1;strokeColor=#FFB570;exitX=0;exitY=0.75;exitDx=0;exitDy=0;fillColor=#f8cecc;jumpStyle=arc;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="E__r3v_IiDljRF7QGEvL-1" source="0JMHUhpy4NwiAgeJqNMq-4" target="E__r3v_IiDljRF7QGEvL-5" edge="1">
+          <mxGeometry x="62" y="185.5" width="100" height="100" as="geometry">
+            <mxPoint x="1900" y="1575.63" as="sourcePoint" />
+            <mxPoint x="1510" y="380.63" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1580" y="1705" />
+              <mxPoint x="1580" y="381" />
+              <mxPoint x="1570" y="381" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-61" value="" style="edgeStyle=orthogonalEdgeStyle;strokeWidth=2;endArrow=block;endFill=1;fontStyle=1;strokeColor=#FFB570;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fillColor=#f8cecc;jumpStyle=arc;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="E__r3v_IiDljRF7QGEvL-1" source="0JMHUhpy4NwiAgeJqNMq-47" target="E__r3v_IiDljRF7QGEvL-5" edge="1">
+          <mxGeometry x="62" y="185.5" width="100" height="100" as="geometry">
+            <mxPoint x="1425" y="1765" as="sourcePoint" />
+            <mxPoint x="1275" y="385" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1370" y="1720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-62" value="" style="edgeStyle=elbowEdgeStyle;strokeWidth=2;endArrow=block;endFill=1;fontStyle=1;strokeColor=#FFB570;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fillColor=#f8cecc;jumpStyle=arc;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="E__r3v_IiDljRF7QGEvL-1" source="0JMHUhpy4NwiAgeJqNMq-53" target="aTFJ92kF3A5ZYLB9J6bt-55" edge="1">
+          <mxGeometry x="62" y="185.5" width="100" height="100" as="geometry">
+            <mxPoint x="1300" y="1445" as="sourcePoint" />
+            <mxPoint x="1648" y="820" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1400" y="1330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-69" value="Sub-Divisional Officer (SDO) / Assistant Collector" style="rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="-560" y="1345" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-70" value="land records, mutation, land revenue, tenancy, agricultural land disputes, etc." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="-440" y="1410" width="209.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-71" value="Collector / District Magistrate" style="rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="-560" y="735" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-73" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="E__r3v_IiDljRF7QGEvL-1" source="0JMHUhpy4NwiAgeJqNMq-71" target="0JMHUhpy4NwiAgeJqNMq-69" edge="1">
+          <mxGeometry x="62" y="185.5" width="100" height="100" as="geometry">
+            <mxPoint x="-450" y="780" as="sourcePoint" />
+            <mxPoint x="-450" y="1310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-470" y="1040" />
+              <mxPoint x="-410" y="1320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-74" value="Commissioner" style="rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="-560" y="590" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-75" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="E__r3v_IiDljRF7QGEvL-1" source="0JMHUhpy4NwiAgeJqNMq-74" target="0JMHUhpy4NwiAgeJqNMq-71" edge="1">
+          <mxGeometry x="62" y="185.5" width="100" height="100" as="geometry">
+            <mxPoint x="-650" y="655.5" as="sourcePoint" />
+            <mxPoint x="-650" y="1225.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-460" y="680" />
+              <mxPoint x="-600" y="1200.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-76" value="Board of Revenue" style="rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="-560" y="430" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-77" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="E__r3v_IiDljRF7QGEvL-1" source="0JMHUhpy4NwiAgeJqNMq-76" target="0JMHUhpy4NwiAgeJqNMq-74" edge="1">
+          <mxGeometry x="62" y="185.5" width="100" height="100" as="geometry">
+            <mxPoint x="-650" y="495.5" as="sourcePoint" />
+            <mxPoint x="-460" y="575" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-460" y="520" />
+              <mxPoint x="-600" y="1040.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-79" value="" style="elbow=vertical;strokeWidth=2;endArrow=block;endFill=1;fontStyle=1;strokeColor=#FFB570;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;exitX=1;exitY=0.5;exitDx=0;exitDy=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="E__r3v_IiDljRF7QGEvL-1" source="0JMHUhpy4NwiAgeJqNMq-76" target="E__r3v_IiDljRF7QGEvL-3" edge="1">
+          <mxGeometry x="62" y="185.5" width="100" height="100" as="geometry">
+            <mxPoint x="319.92999999999995" y="440.5" as="sourcePoint" />
+            <mxPoint x="999.93" y="264.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-320" y="450" />
+              <mxPoint x="-320" y="280" />
+              <mxPoint x="1160" y="280" />
+              <mxPoint x="1160" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-80" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="2211" y="320" width="200" height="94.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-81" value="Family Courts" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="0JMHUhpy4NwiAgeJqNMq-80" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-82" value="Family Court Judge (DSJ Rank)" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="0JMHUhpy4NwiAgeJqNMq-80" vertex="1">
+          <mxGeometry y="54.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-66" value="Tehsildars" style="rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="-560" y="1500" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-67" value="land records, mutation, land revenue, tenancy, agricultural land disputes, etc." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="-420.5" y="1560" width="209.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-83" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="E__r3v_IiDljRF7QGEvL-1" source="0JMHUhpy4NwiAgeJqNMq-69" target="0JMHUhpy4NwiAgeJqNMq-66" edge="1">
+          <mxGeometry x="62" y="185.5" width="100" height="100" as="geometry">
+            <mxPoint x="-480" y="1420" as="sourcePoint" />
+            <mxPoint x="-480" y="1525" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-480" y="1470" />
+              <mxPoint x="-620" y="1990.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-84" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="2778" y="325" width="200" height="94.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-85" value="Labour Courts" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="0JMHUhpy4NwiAgeJqNMq-84" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-86" value="Labour Court Judge (DSJ rank)" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="0JMHUhpy4NwiAgeJqNMq-84" vertex="1">
+          <mxGeometry y="54.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-90" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="3620" y="170" width="200" height="94.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-91" value="Transport Appellate Tribunal" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="0JMHUhpy4NwiAgeJqNMq-90" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-92" value="Judge of High Court or DJ" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="0JMHUhpy4NwiAgeJqNMq-90" vertex="1">
+          <mxGeometry y="54.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-93" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="3860" y="163.25" width="200" height="94.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-94" value="Commercial Tax (Trade Tax) Tribunal" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="0JMHUhpy4NwiAgeJqNMq-93" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-95" value="Retired High Court Judge" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="0JMHUhpy4NwiAgeJqNMq-93" vertex="1">
+          <mxGeometry y="54.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-96" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="2730" y="437.5" width="200" height="94.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-97" value="Cooperative Tribunal" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="0JMHUhpy4NwiAgeJqNMq-96" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-98" value="Senior Judicial Officer" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="0JMHUhpy4NwiAgeJqNMq-96" vertex="1">
+          <mxGeometry y="54.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-99" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="2950" y="430" width="200" height="94.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-100" value="Public Services Tribunal" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="0JMHUhpy4NwiAgeJqNMq-99" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-101" value="Retired High Court Judge" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="0JMHUhpy4NwiAgeJqNMq-99" vertex="1">
+          <mxGeometry y="54.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-102" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="3110" y="307.5" width="200" height="94.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-103" value="Motor Accident Claims Tribunal" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="0JMHUhpy4NwiAgeJqNMq-102" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-104" value="Judicial Magistrate or District Judge" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="0JMHUhpy4NwiAgeJqNMq-102" vertex="1">
+          <mxGeometry y="54.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-108" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="2460" y="320" width="200" height="94.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-109" value="Commercial Courts" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="0JMHUhpy4NwiAgeJqNMq-108" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-110" value="Commercial Court Judge (DSJ rank)" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="0JMHUhpy4NwiAgeJqNMq-108" vertex="1">
+          <mxGeometry y="54.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-111" value="Commercial disputes above ₹3 Lac" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="2280" y="670" width="208" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-112" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="3100" y="180" width="200" height="94.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-113" value="Income Tax Appellate Tribunal" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="0JMHUhpy4NwiAgeJqNMq-112" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-114" value="Former Judges" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="0JMHUhpy4NwiAgeJqNMq-112" vertex="1">
+          <mxGeometry y="54.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-115" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="2150" y="190.5" width="200" height="94.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-116" value="Central Administrative Tribunal" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="0JMHUhpy4NwiAgeJqNMq-115" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-117" value="(High Court Judge Rank)" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="0JMHUhpy4NwiAgeJqNMq-115" vertex="1">
+          <mxGeometry y="54.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-121" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="2380" y="190.5" width="200" height="94.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-122" value="Railways Claims Tribunal" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="0JMHUhpy4NwiAgeJqNMq-121" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-123" value="Retired Judges" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="0JMHUhpy4NwiAgeJqNMq-121" vertex="1">
+          <mxGeometry y="54.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-124" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="2480" y="30" width="200" height="94.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-125" value="Appellate Tribunal for Electricity" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="0JMHUhpy4NwiAgeJqNMq-124" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-126" value="Retired High Court or Supreme Court Judge" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="0JMHUhpy4NwiAgeJqNMq-124" vertex="1">
+          <mxGeometry y="54.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-127" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="3370" y="315" width="200" height="94.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-128" value="Debts Recovery Tribunal" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="0JMHUhpy4NwiAgeJqNMq-127" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-129" value="District Judge Rank" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="0JMHUhpy4NwiAgeJqNMq-127" vertex="1">
+          <mxGeometry y="54.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-130" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="3260" y="20" width="200" height="94.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-131" value="Telecom Disputes Settlement Appellate Tribunal" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="0JMHUhpy4NwiAgeJqNMq-130" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-132" value="Retired Supreme Court or High Court Judge" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="0JMHUhpy4NwiAgeJqNMq-130" vertex="1">
+          <mxGeometry y="54.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-136" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="3020" y="20" width="200" height="94.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-137" value="National Company Law Tribunal" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="0JMHUhpy4NwiAgeJqNMq-136" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-138" value="Former Judges" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="0JMHUhpy4NwiAgeJqNMq-136" vertex="1">
+          <mxGeometry y="54.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-139" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="2880" y="184.5" width="200" height="94.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-140" value="Labour Tribunal" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="0JMHUhpy4NwiAgeJqNMq-139" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-141" value="" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="0JMHUhpy4NwiAgeJqNMq-139" vertex="1">
+          <mxGeometry y="54.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-142" value="fine ₹25,000 to ₹5 Lac" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1">
+          <mxGeometry x="1802" y="1260" width="208" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-143" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="2650" y="180" width="200" height="94.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-144" value="Industrial Tribunal" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="0JMHUhpy4NwiAgeJqNMq-143" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-145" value="" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="0JMHUhpy4NwiAgeJqNMq-143" vertex="1">
+          <mxGeometry y="54.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-146" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="E__r3v_IiDljRF7QGEvL-1" source="E__r3v_IiDljRF7QGEvL-57" target="0JMHUhpy4NwiAgeJqNMq-2" edge="1">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="1491" y="334.5" as="sourcePoint" />
+            <mxPoint x="1110" y="470.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1290" y="459" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-149" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;curved=0;" parent="E__r3v_IiDljRF7QGEvL-1" source="z6BjMf6_MH6t1YkdlfCe-15" target="z6BjMf6_MH6t1YkdlfCe-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1808" y="942.5" as="sourcePoint" />
+            <mxPoint x="1808" y="1056.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-150" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="E__r3v_IiDljRF7QGEvL-1" source="0JMHUhpy4NwiAgeJqNMq-141" target="0JMHUhpy4NwiAgeJqNMq-85" edge="1">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="2880" y="130" as="sourcePoint" />
+            <mxPoint x="3000" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-151" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="E__r3v_IiDljRF7QGEvL-1" source="0JMHUhpy4NwiAgeJqNMq-145" target="0JMHUhpy4NwiAgeJqNMq-85" edge="1">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="2880" y="130" as="sourcePoint" />
+            <mxPoint x="2760" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-152" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="3370" y="170" width="200" height="94.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-153" value="Debts Recovery Appellate Tribunal" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="0JMHUhpy4NwiAgeJqNMq-152" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-154" value="District Judge Rank" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="0JMHUhpy4NwiAgeJqNMq-152" vertex="1">
+          <mxGeometry y="54.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-155" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="2760" y="32.75" width="200" height="94.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-156" value="Customs Excise and Service Tax Appellate Tribunal" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="0JMHUhpy4NwiAgeJqNMq-155" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-157" value="Former High Court Judge" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="0JMHUhpy4NwiAgeJqNMq-155" vertex="1">
+          <mxGeometry y="54.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-158" value="" style="group" parent="E__r3v_IiDljRF7QGEvL-1" vertex="1" connectable="0">
+          <mxGeometry x="3020" y="-124.5" width="200" height="94.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-159" value="National Company Law Appellate Tribunal" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;whiteSpace=wrap;" parent="0JMHUhpy4NwiAgeJqNMq-158" vertex="1">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-160" value="" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;fontColor=#000099;" parent="0JMHUhpy4NwiAgeJqNMq-158" vertex="1">
+          <mxGeometry y="54.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-161" value="" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=4;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="E__r3v_IiDljRF7QGEvL-1" source="0JMHUhpy4NwiAgeJqNMq-160" target="0JMHUhpy4NwiAgeJqNMq-137" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2960" y="114.5" as="sourcePoint" />
+            <mxPoint x="3079" y="203.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0JMHUhpy4NwiAgeJqNMq-162" value="" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=4;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="E__r3v_IiDljRF7QGEvL-1" source="0JMHUhpy4NwiAgeJqNMq-154" target="0JMHUhpy4NwiAgeJqNMq-128" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3130" y="-20" as="sourcePoint" />
+            <mxPoint x="3130" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Floluggx5JBm4P2N7Yob-4" value="" style="group;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" connectable="0" parent="E__r3v_IiDljRF7QGEvL-1">
+          <mxGeometry x="1690" y="320" width="201" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Floluggx5JBm4P2N7Yob-5" value="Women&#39;s Courts" style="rounded=1;fillColor=#e6d0de;strokeColor=#996185;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;gradientColor=#d5739d;" vertex="1" parent="Floluggx5JBm4P2N7Yob-4">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Floluggx5JBm4P2N7Yob-6" value="Civil Judge Senior Division" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;fontStyle=1;fontSize=14;whiteSpace=wrap;arcSize=50;labelBackgroundColor=none;" vertex="1" parent="Floluggx5JBm4P2N7Yob-4">
+          <mxGeometry x="1" y="50" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Floluggx5JBm4P2N7Yob-7" value="Arbitration court (non-binding)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="E__r3v_IiDljRF7QGEvL-1">
+          <mxGeometry x="1760" y="430" width="180" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="QT33NjRbdyaXHYxtOgwz" name="Page-3">
+    <mxGraphModel dx="1219" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HKGHPABl_-e9DQtKUBdi-1" value="Supreme Court" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="570" y="205.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HKGHPABl_-e9DQtKUBdi-2" value="High Court" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="560" y="345.5" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HKGHPABl_-e9DQtKUBdi-3" value="Revenue Courts" style="rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="230" y="455.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HKGHPABl_-e9DQtKUBdi-4" value="District Courts" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="542" y="455.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HKGHPABl_-e9DQtKUBdi-5" value="Metropolitan Courts" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="930" y="455.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HKGHPABl_-e9DQtKUBdi-6" value="Tribunals" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="680.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HKGHPABl_-e9DQtKUBdi-26" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" edge="1" parent="1" source="HKGHPABl_-e9DQtKUBdi-1" target="HKGHPABl_-e9DQtKUBdi-2">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="-80" y="265.5" as="sourcePoint" />
+            <mxPoint x="20" y="165.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKGHPABl_-e9DQtKUBdi-27" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" edge="1" parent="1" source="HKGHPABl_-e9DQtKUBdi-2" target="HKGHPABl_-e9DQtKUBdi-4">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="22" y="265.5" as="sourcePoint" />
+            <mxPoint x="122" y="165.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKGHPABl_-e9DQtKUBdi-28" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" edge="1" parent="1" source="HKGHPABl_-e9DQtKUBdi-2" target="HKGHPABl_-e9DQtKUBdi-3">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="22" y="265.5" as="sourcePoint" />
+            <mxPoint x="122" y="165.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKGHPABl_-e9DQtKUBdi-29" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" edge="1" parent="1" source="HKGHPABl_-e9DQtKUBdi-2" target="HKGHPABl_-e9DQtKUBdi-5">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="22" y="265.5" as="sourcePoint" />
+            <mxPoint x="122" y="165.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKGHPABl_-e9DQtKUBdi-30" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;dashed=1;strokeColor=#23445D;" edge="1" parent="1" source="HKGHPABl_-e9DQtKUBdi-1" target="HKGHPABl_-e9DQtKUBdi-6">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="22" y="265.5" as="sourcePoint" />
+            <mxPoint x="122" y="165.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1062" y="295.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dd7RE9I6uuXThXejkP8W-1" value="Judicial Magistrate Courts" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="400" y="600" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dd7RE9I6uuXThXejkP8W-2" value="Civil Courts" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="627" y="600" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dd7RE9I6uuXThXejkP8W-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="dd7RE9I6uuXThXejkP8W-1" source="HKGHPABl_-e9DQtKUBdi-4">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="625" y="515.5" as="sourcePoint" />
+            <mxPoint x="-25" y="275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dd7RE9I6uuXThXejkP8W-4" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="dd7RE9I6uuXThXejkP8W-2" source="HKGHPABl_-e9DQtKUBdi-4">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="625" y="515.5" as="sourcePoint" />
+            <mxPoint x="-25" y="275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dd7RE9I6uuXThXejkP8W-5" value="Magistrate Courts" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="840" y="600" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dd7RE9I6uuXThXejkP8W-6" value="sub Courts" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="600" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dd7RE9I6uuXThXejkP8W-7" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="dd7RE9I6uuXThXejkP8W-5" source="HKGHPABl_-e9DQtKUBdi-5">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="1048" y="515.5" as="sourcePoint" />
+            <mxPoint x="398" y="275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dd7RE9I6uuXThXejkP8W-8" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="dd7RE9I6uuXThXejkP8W-6" source="HKGHPABl_-e9DQtKUBdi-5">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="1048" y="515.5" as="sourcePoint" />
+            <mxPoint x="398" y="275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MaFRrGYUSfKTngQKJvoY-1" value="Executive Courts" style="rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="150" y="600" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4ciEbpK1aKFd3N6d08iJ-1" value="Consumer Courts" style="rounded=1;fillColor=#FAD7AC;strokeColor=#d79b00;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1408" y="680" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4ciEbpK1aKFd3N6d08iJ-2" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;dashed=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HKGHPABl_-e9DQtKUBdi-1" target="4ciEbpK1aKFd3N6d08iJ-1">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="1060" y="250" as="sourcePoint" />
+            <mxPoint x="1602" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1220" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8cigSZUCTnCF1a9XSRIY-1" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HKGHPABl_-e9DQtKUBdi-4" target="MaFRrGYUSfKTngQKJvoY-1">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="458" y="525.5" as="sourcePoint" />
+            <mxPoint x="350" y="575" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aiW_WMTxZx6SBhb0yBzF-1" value="Rural Courts" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="690" y="750" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iCype06MlA_iKj8NIPW2-2" value="Special Purpose Courts" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="770" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iCype06MlA_iKj8NIPW2-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;dashed=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HKGHPABl_-e9DQtKUBdi-1" target="iCype06MlA_iKj8NIPW2-2">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="560" y="278.5" as="sourcePoint" />
+            <mxPoint x="1398" y="692.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1040" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iCype06MlA_iKj8NIPW2-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#330066;" vertex="1" parent="1">
+          <mxGeometry x="380" y="570" width="230" height="300" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
